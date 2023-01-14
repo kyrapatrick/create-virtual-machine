@@ -9,7 +9,7 @@ Outline the creation of a resource group and a virtual machine using Micrsoft Az
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Create a Virtual Machine in Azure Portal](https://www.youtube.com/watch?v=dP0vNd5K2x8)
+- ### [YouTube: How to Create a Virtual Machine in Azure Portal](https://www.youtube.com/watch?v=gyb9tyCtVAM)
 
 <h2>Environments and Technologies Used</h2>
 
